@@ -1,6 +1,10 @@
 CHANGELOG
 =========
 
+# 2022-17-01
+- version marked as **0.5.3**
+- added encoding for non-ascii-characters
+
 # 2012-07-10
 - added zh-CN locale
 - version marked as **0.5.2**
