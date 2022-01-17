@@ -1,0 +1,77 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nxruEdtAzGmmErOOx+T/yA==
+SHA1-Digest: C53ogmuPVurnhA7RMPg+J1qjg5U=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wUfkBRUL3bpTjeePdvhexA==
+SHA1-Digest: RJJr3m3RiSGlJ6cruNgJ1ewdkao=
+
+Name: CHANGELOG
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5FP+kAvU9a6ZI+zCA0uelQ==
+SHA1-Digest: c8r8zxzaPWLWVXCL1ML7EF8P2OA=
+
+Name: README
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: chrome/markdowneditor.jar
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 72Tg3r87YrzzMDtZuHPWHA==
+SHA1-Digest: 5+ueeMyR55c/wm86ie6SxyfCLgo=
+
+Name: chrome/icons/default/markdowneditor-dialog.ico
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AwSezbfUZUKrIjJ6xNxKgg==
+SHA1-Digest: zwhftjomBYEvzwtszXJ6KSu6nbg=
+
+Name: chrome/icons/default/markdowneditor-dialog.xpm
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HyS49oXpIcJr0fI26G4A0g==
+SHA1-Digest: 5zgsSeAZYs9smilqLzS4/2WkOis=
+
+Name: chrome/icons/default/markdowneditor-window.ico
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AwSezbfUZUKrIjJ6xNxKgg==
+SHA1-Digest: zwhftjomBYEvzwtszXJ6KSu6nbg=
+
+Name: chrome/icons/default/markdowneditor-window.xpm
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HyS49oXpIcJr0fI26G4A0g==
+SHA1-Digest: 5zgsSeAZYs9smilqLzS4/2WkOis=
+
+Name: components/clhandler.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GyNlnl69goSmjZMZfDKg+Q==
+SHA1-Digest: coDj6YR57DklFG16xz/jHncaDgY=
+
+Name: components/md-mime-handler.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pTD7ggsCx56L8KrpEYANTg==
+SHA1-Digest: IbqNGqMp5/wjxoaez8fZLlTjVH4=
+
+Name: defaults/preferences/prefs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: arFWbmbPciyjqtPOG8XxKg==
+SHA1-Digest: osiAM1pGqYWnXd53jzX1FN1gpMg=
+
+Name: modules/MarkDownConverter.jsm
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WlUeQNOIec2oV3kQ0XIbZg==
+SHA1-Digest: LCN9gpny5NTBwoTZ8uN15wdm6UE=
+
+Name: modules/RecentFiles.jsm
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UcTJkdLRst9UpB0lHj/NNQ==
+SHA1-Digest: +MgYAlMq6GaEruXKmeXhfjEkujk=
+
+Name: LICENSE
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gVylmcnfJHoMf2GbqxI9rQ==
+SHA1-Digest: l0TO3OCZ9yezJ82ZE6H9xYp/VZk=
+
