@@ -1,0 +1,25 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+component {b7dad35f-a68c-4c35-96ef-842da208a123} components/clhandler.js
+contract @mozilla.org/commandlinehandler/general-startup;1?type=markdowneditor {b7dad35f-a68c-4c35-96ef-842da208a123}
+category command-line-handler m-markdowneditor @mozilla.org/commandlinehandler/general-startup;1?type=markdowneditor
+
+component {75a849c3-fcd6-478e-a3d7-c38c4f7671f1} components/md-mime-handler.js
+contract @mozilla.org/streamconv;1?from=text/x-web-markdown&to=*/* {75a849c3-fcd6-478e-a3d7-c38c4f7671f1}
+
+content   markdowneditor             jar:chrome/markdowneditor.jar!/content/markdowneditor/
+
+resource  markdowneditor             modules/
+
+locale    markdowneditor   en-US         jar:chrome/markdowneditor.jar!/locale/en-US/markdowneditor/
+locale    markdowneditor   cs-CZ         jar:chrome/markdowneditor.jar!/locale/cs-CZ/markdowneditor/
+
+skin      markdowneditor   classic/1.0   jar:chrome/markdowneditor.jar!/skin/classic/markdowneditor/
+
+# Overlay for Pale Moon and Basilisk
+overlay chrome://browser/content/browser.xul chrome://markdowneditor/content/overlay-firefox.xul
+style chrome://global/content/customizeToolbar.xul chrome://markdowneditor/skin/overlays.css
+
+# TODO Overlay for Interlink
